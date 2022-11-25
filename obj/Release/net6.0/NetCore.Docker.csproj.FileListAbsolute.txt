@@ -1,0 +1,15 @@
+C:\research\App\bin\Release\net6.0\NetCore.Docker.exe
+C:\research\App\bin\Release\net6.0\NetCore.Docker.deps.json
+C:\research\App\bin\Release\net6.0\NetCore.Docker.runtimeconfig.json
+C:\research\App\bin\Release\net6.0\NetCore.Docker.dll
+C:\research\App\bin\Release\net6.0\NetCore.Docker.pdb
+C:\research\App\obj\Release\net6.0\NetCore.Docker.csproj.AssemblyReference.cache
+C:\research\App\obj\Release\net6.0\NetCore.Docker.GeneratedMSBuildEditorConfig.editorconfig
+C:\research\App\obj\Release\net6.0\NetCore.Docker.AssemblyInfoInputs.cache
+C:\research\App\obj\Release\net6.0\NetCore.Docker.AssemblyInfo.cs
+C:\research\App\obj\Release\net6.0\NetCore.Docker.csproj.CoreCompileInputs.cache
+C:\research\App\obj\Release\net6.0\NetCore.Docker.dll
+C:\research\App\obj\Release\net6.0\refint\NetCore.Docker.dll
+C:\research\App\obj\Release\net6.0\NetCore.Docker.pdb
+C:\research\App\obj\Release\net6.0\NetCore.Docker.genruntimeconfig.cache
+C:\research\App\obj\Release\net6.0\ref\NetCore.Docker.dll
